@@ -1,0 +1,6 @@
+config.properties
+diary_entries.dat
+*.dat
+*.wav
+*.class
+voices/
